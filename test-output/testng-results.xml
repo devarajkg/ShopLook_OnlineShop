@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Generic utility Intiallization sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Excel workbook Opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Random Number Generated ---> Random number is : 475]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Chrome Browser Launced]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Browser Maximized]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Implicitly wait intiallized]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Intiallized the explicit wait/webdriver wait]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Intiallized the Javascript executor]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Instance created for HomePage Object repository]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Instance created for BlogPage Object repository]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Instance created for Checkout page Object repository]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Instance created for Bussiness Library class]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Data fetched from the excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Data fetched from the excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Data fetched from the excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Data fetched from the excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Successfully fetched the title of the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Assertion Pass ---> Home match with the current page title]]>
+    </line>
+    <line>
+      <![CDATA[Successfully mouse hovered on the Shop tab]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on the T-Shirts element]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Clicked on blog Tab]]>
+    </line>
+    <line>
+      <![CDATA[Successfully fetched the title of the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Assertion Pass ---> Blog match with the current page title]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated Homepage using SiteOrigin Page Builder blog post page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Webpage scrolled till the Recent Product Text element aligned top of the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Successfully added the Toaster4 product into the cart]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Webpage scrolled to top of the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Successfully mouse hovered on the Cart tab]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated the checkout page for the Toaster4 product]]>
+    </line>
+    <line>
+      <![CDATA[Successfully data decoded]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on the continue as new customer button]]>
+    </line>
+    <line>
+      <![CDATA[Successfully selected India from the dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Successfully selected Karnataka from the dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Successfully entered all the Registration details into all the textfields]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on the Continue button for registration]]>
+    </line>
+    <line>
+      <![CDATA[Successfully controlled waited till the PaymentMethod Button element visible]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on the payment method button]]>
+    </line>
+    <line>
+      <![CDATA[Successfully controlled waited till the Order Summary Text element visible]]>
+    </line>
+    <line>
+      <![CDATA[Assertion Pass ---> Toaster4 match with the current element text]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Webpage scrolled till the Confirm Order Header element aligned top of the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Successfully controlled waited till the Place Order Button element visible]]>
+    </line>
+    <line>
+      <![CDATA[Successfully click on the confirm the order button]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Excel workbook closed successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28614" started-at="2022-09-04T11:00:31 IST" finished-at="2022-09-04T11:01:00 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28614" started-at="2022-09-04T11:00:31 IST" finished-at="2022-09-04T11:01:00 IST">
+      <class name="net.j2store.checkout.KaplanAssignmentTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:net.j2store.checkout.KaplanAssignmentTest@78ac1102]" name="setup" is-config="true" duration-ms="9458" started-at="2022-09-04T11:00:31 IST" finished-at="2022-09-04T11:00:40 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Generic utility Intiallization sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Excel workbook Opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Random Number Generated ---> Random number is : 475]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Chrome Browser Launced]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Application opened]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Browser Maximized]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Implicitly wait intiallized]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Intiallized the explicit wait/webdriver wait]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Intiallized the Javascript executor]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Instance created for HomePage Object repository]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Instance created for BlogPage Object repository]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Instance created for Checkout page Object repository]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Instance created for Bussiness Library class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="assignmentTest()[pri:0, instance:net.j2store.checkout.KaplanAssignmentTest@78ac1102]" name="assignmentTest" duration-ms="18313" started-at="2022-09-04T11:00:40 IST" finished-at="2022-09-04T11:00:59 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Data fetched from the excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Data fetched from the excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Data fetched from the excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Data fetched from the excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Successfully fetched the title of the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Assertion Pass ---> Home match with the current page title]]>
+            </line>
+            <line>
+              <![CDATA[Successfully mouse hovered on the Shop tab]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on the T-Shirts element]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Clicked on blog Tab]]>
+            </line>
+            <line>
+              <![CDATA[Successfully fetched the title of the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Assertion Pass ---> Blog match with the current page title]]>
+            </line>
+            <line>
+              <![CDATA[Successfully navigated Homepage using SiteOrigin Page Builder blog post page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Webpage scrolled till the Recent Product Text element aligned top of the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Successfully added the Toaster4 product into the cart]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Webpage scrolled to top of the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Successfully mouse hovered on the Cart tab]]>
+            </line>
+            <line>
+              <![CDATA[Successfully navigated the checkout page for the Toaster4 product]]>
+            </line>
+            <line>
+              <![CDATA[Successfully data decoded]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on the continue as new customer button]]>
+            </line>
+            <line>
+              <![CDATA[Successfully selected India from the dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Successfully selected Karnataka from the dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Successfully entered all the Registration details into all the textfields]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on the Continue button for registration]]>
+            </line>
+            <line>
+              <![CDATA[Successfully controlled waited till the PaymentMethod Button element visible]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on the payment method button]]>
+            </line>
+            <line>
+              <![CDATA[Successfully controlled waited till the Order Summary Text element visible]]>
+            </line>
+            <line>
+              <![CDATA[Assertion Pass ---> Toaster4 match with the current element text]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Webpage scrolled till the Confirm Order Header element aligned top of the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Successfully controlled waited till the Place Order Button element visible]]>
+            </line>
+            <line>
+              <![CDATA[Successfully click on the confirm the order button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- assignmentTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:net.j2store.checkout.KaplanAssignmentTest@78ac1102]" name="tearDown" is-config="true" duration-ms="795" started-at="2022-09-04T11:00:59 IST" finished-at="2022-09-04T11:01:00 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Browser closed]]>
+            </line>
+            <line>
+              <![CDATA[Excel workbook closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- net.j2store.checkout.KaplanAssignmentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

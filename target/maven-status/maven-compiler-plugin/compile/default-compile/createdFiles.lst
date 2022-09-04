@@ -1,0 +1,10 @@
+net\j2store\genericUtiltiy\BaseClass.class
+net\j2store\elementRepository\CheckoutPage.class
+net\j2store\genericUtiltiy\IconstantPath.class
+net\j2store\genericUtiltiy\WebDriverUtility.class
+net\j2store\genericUtiltiy\VerificationStrategy.class
+net\j2store\genericUtiltiy\JavaUtility.class
+net\j2store\elementRepository\BussinessLibrary.class
+net\j2store\genericUtiltiy\ExcelUtility.class
+net\j2store\elementRepository\HomePage.class
+net\j2store\elementRepository\BlogPage.class
